@@ -58,7 +58,7 @@ const Navbar = () => {
           </Typography>
 
           <Box sx={{ margin: "0px 12px 0px 12px" }}>
-            <Badge badgeContent={4} color="secondary">
+            <Badge badgeContent={50} color="secondary">
               <PersonIcon color="inherit" />
             </Badge>
           </Box>
